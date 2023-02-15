@@ -1,0 +1,47 @@
+.body{
+    background-color: #222;
+    /* font-family: "Quicksand",sans-serif; */
+}
+img{
+    border-radius: 25px;
+}
+.custom-button{
+    border-radius: 6px;
+    padding: 10px;
+    width: 200px;
+    font-weight: 700;
+    color: white;
+    background: #f06d55;
+    border: none;
+}
+.custom-button:hover{
+    color: white;
+    text-decoration: none;
+}
+.dark-bg{
+    background-color: #1f1f1f;
+}
+i{
+    font-size: 24px;
+}
+.work-img{
+    width: 60%;
+    filter: grayscale(1);
+}
+.work-img:hover{
+    filter: none;
+    cursor: pointer;
+}
+.inquery{
+    background: white;
+    border-radius: 16px;
+    width: 70%;
+    align-content: center;
+}
+/* .workshop-bg-1{
+    border-radius: 16px;
+}
+.workshop-bg-2{
+    background-color: #f06d55;
+    border-radius: 16px;
+} */
